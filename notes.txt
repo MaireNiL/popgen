@@ -1,0 +1,7 @@
+* Get Canine HD 170K array data from http://dogs.genouest.org/SWEEP.dir/HDselection_updated_trees.map
+* 174,810 markers including 39 and 40 i.e. X and Y
+* Find diploid regions i.e. major copy number ~1 and minor copy number ~1. Do this for each tumour sample
+* Find overlap of tumour diploid regions
+* Find overlap of consensus tumour diploid regions and 170K SNPs
+* liftOver consensus SNPs to canfam3.1
+* Pull canfam3.1 based consensus SNPs from tumour samples
